@@ -1,5 +1,5 @@
 package mpd;
-
+// This class finds the minimum for each individual thread
 public class SerialMinimumPairwiseDistance implements MinimumPairwiseDistance {
 
     @Override
